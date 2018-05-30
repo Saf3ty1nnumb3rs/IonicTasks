@@ -1,0 +1,8 @@
+{
+  "name": "myTasks",
+  "app_id": "b207ff50",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
